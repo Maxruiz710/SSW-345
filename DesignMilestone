@@ -1,11 +1,12 @@
 # Design Proposal
 
-## Group Members
-
 ## Problem Statement
+
+Black Jack has been a historic game loved by many. A game only requiring one player and a dealer allows people to enjoy both in public and in private. The problem, though, is that some players don't know where to find dealers or people that both know how to and are willing to deal for them in theiir free time. Additionally, some players refuse to play consistently since they refuse to lose money overtime while playing it.
 
 ## Bot Description
 
+BlackJackBot is a Discord bot that allows users to play Black Jack in their spare time. The bot acts as a dealer for players so there is no need to find someone that can deal for you at any given time. Additionally, there will be "play money" used so players can play Black Jack without any financial risks. The bot will be able to track the total balance of the player and show the total profits or losses throughout their time playing. The players can stop playing whenever they'd like to.
 ## Use Cases
 
 ### Use Case 1:
